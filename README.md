@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrettlyCD
 - 👀 I’m interested in sports, especially the AZ Cardinals and Dodgers (even though they hurt me), reading, learning new things
-- 🌱 I’m currently learning web development and python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that can help my grow in my skills
 - 📫 How to reach me: brettcd@icloud.com
 
